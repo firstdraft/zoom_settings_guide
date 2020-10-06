@@ -8,13 +8,13 @@ To get to your general settings, click on the small gear located at the top righ
 
 ![get_to_settings](get_to_settings.png) 
 
-Once you have opened up the settings menu, we will find the general settings. 
+Once you have opened up the settings menu, you will find the general settings. 
 
 ## General Settings
 
 ![general_settings](general_settings.png) 
 
-The items that we have changed from default are the following. 
+The items that we have changed from default are the following:
 
 - Use dual Monitors (On)
 - Show my meeting duration (On)
@@ -25,7 +25,7 @@ The items that we have changed from default are the following.
 
 ![video_settings](video_settings.png) 
 
-Changes from default
+Changes from default:
 
 - Enable HD (On)
 - Touch up my appearance (Because why not?!) (On)
@@ -38,7 +38,7 @@ Changes from default
 
 ![audio_settings](audio_settings.png) 
 
-Changes from default.
+Changes from default:
 
 - Automatically join computer audio when joining a meeting (On)
 - Mute my mic when joining a meeting (On)
@@ -47,7 +47,7 @@ Changes from default.
 
 ![screen_share](screen_share.png) 
 
-Changes from default.
+Changes from default:
 
 - Enter full screen when participant shares screen (Off)
 
@@ -70,7 +70,7 @@ We have made no changes other than selecting the virtual background of your choi
 
 ![recording_2](recording_2.png)
 
-Changes from default. 
+Changes from default:
 
 - Choose a location to save the recording to after the meetings ends (On)
 - Add a timestamp to the recording (On)
@@ -83,7 +83,7 @@ To access your web settings, you must click on the "View More Settings" link wit
 
 ![view_more](view_more.png)
 
-Once you have logged, start by clicking on the settings tab located on the left side navigation bar. 
+Once you have logged in, start by clicking on the settings tab located on the left side navigation bar. 
 
 ![nav_settings](nav_settings.png)
 
@@ -98,7 +98,7 @@ We have no changes from the default.
 
 ![web_schedule](web_schedule.png)
 
-Again no changes.
+Again, no changes.
 
 # Meeting (In Meeting (Basic))
 
@@ -106,7 +106,7 @@ Again no changes.
 ![basic_2](basic_2.png)
 ![basic_3](basic_3.png)
 
-Changes from default 
+Changes from default:
 
 - Prevent participants from saving chat (Off)
 - File Transfer (On)
@@ -124,26 +124,26 @@ Changes from default
 ![advanced_2](advanced_2.png)
 ![advanced_3](advanced_3.png)
 
-Changes from default
+Changes from default:
 
 - Remote Support (On)
 - Closed Captioning (On)
 - Video Filters (Off)
 - Only show default email when sending email invites (On)
 
-Meeting (Email Notification)
+# Meeting (Email Notification)
 
 ![email](email.png)
 
-Changes from default. 
+Changes from default: 
 
 - When a cloud recording is available (On)
 
-# Other 
+# Meeting (Other)  
 
 ![other](other.png)
 
-Changes from default. 
+Changes from default: 
 
 - Blur snapshot on iOS task switcher (On)
 
